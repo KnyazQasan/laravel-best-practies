@@ -40,7 +40,7 @@ Translations:
 
 [Italiana](italian.md) (by [Sujal Patel](https://github.com/sujalpatel2209))
 
-[Azərbaycanca](https://github.com/KnyazQasan/laravel-best-practices) (by [KnyazQasan](https://github.com/KnyazQasan))
+[Azərbaycanca](https://github.com/KnyazQasan/laravel-best-practies) (by [KnyazQasan](https://github.com/KnyazQasan))
 
 [العربية](arabic.md) (by [ahmedsaoud31](https://github.com/ahmedsaoud31))
 
